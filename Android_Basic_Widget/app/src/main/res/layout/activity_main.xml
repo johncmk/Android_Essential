@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff0000"
+    android:gravity="top"
+    tools:context="com.example.chaos408.android_basic_widget.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/png_file"
+
+        android:maxHeight="100px"
+        android:maxWidth="56px"
+        android:adjustViewBounds="true"
+        />
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#00ff00"-->
+        <!--android:layout_marginLeft="50px"-->
+        <!--android:paddingLeft="100px"-->
+        <!--android:text="Btn01"-->
+        <!--/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="hello world"-->
+        <!--android:paddingTop="20px"-->
+        <!--android:textStyle="bold|italic"-->
+        <!--android:textColor="#ffffff"-->
+        <!--android:textSize="20px"-->
+        <!--android:background="#0000ff"-->
+        <!--/>-->
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="please input User ID"-->
+        <!--android:textStyle="bold|italic"-->
+        <!--/>-->
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="please input User PW"-->
+        <!--android:textStyle="bold|italic"-->
+        <!--android:password="true"-->
+        <!--/>-->
+
+
+
+</LinearLayout>

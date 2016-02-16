@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android_Widget_RadioButton</string>
+
+    <string name="area01">New York</string>
+    <string name="area02">Washington</string>
+    <string name="area03">San Fransisco</string>
+    <string name="area04">Florida</string>
+    <string name="area05">Texas</string>
+    <string name="area06">Miami</string>
+    <string name="area07">Chicago</string>
+
+</resources>

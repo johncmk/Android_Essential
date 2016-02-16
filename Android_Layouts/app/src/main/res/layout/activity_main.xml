@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.chaos408.android_layouts.MainActivity">
+
+    <TableRow>
+        <TextView android:text="Father" android:padding="20px"/>
+        <TextView android:text="Mother" android:padding="20px" android:background="#5000ff00"/>
+        <TextView android:text="Sister" android:padding="20px"/>
+        <TextView android:text="Broter" android:padding="20px" android:background="#5000ff00"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="80" android:padding="20px"/>
+        <TextView android:text="65" android:padding="20px" android:background="#5000ff00"/>
+        <TextView android:text="44" android:padding="20px"/>
+        <TextView android:text="35" android:padding="20px" android:background="#5000ff00"/>
+    </TableRow>
+
+</TableLayout>

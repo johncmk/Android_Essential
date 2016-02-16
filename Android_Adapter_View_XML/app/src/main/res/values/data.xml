@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather">
+        <item>MON:Sunny</item>
+        <item>TUR:Rainy</item>
+        <item>WED:Cloudy</item>
+        <item>THR:Sunny</item>
+        <item>FRI:Windy</item>
+        <item>SAT:Rainy</item>
+        <item>SUN:Sunny</item>
+    </string-array>
+
+</resources>

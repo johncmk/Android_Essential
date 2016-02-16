@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.chaos408.android_actionbar_optionmenu.MainActivity"
+    >
+
+    <!-- Menu Bar on top -->
+    <item
+        android:id="@+id/action_menu01"
+        android:icon="@drawable/g02"
+        android:orderInCategory="1"
+        android:title="action title first"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_menu02"
+        android:icon="@drawable/g03"
+        android:orderInCategory="2"
+        android:title="action title second"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_menu03"
+        android:icon="@drawable/g08"
+        android:orderInCategory="3"
+        android:title="action title third"
+        app:showAsAction="always"/>
+
+    <!-- Menu Bar on the bottom of the screen -->
+
+    <item
+        android:id="@+id/menu_01"
+        android:title="menu title first"/>
+
+    <item
+        android:id="@+id/menu_02"
+        android:title="menu title second"/>
+
+    <item
+        android:id="@+id/menu_03"
+        android:title="menu title third"/>
+</menu>

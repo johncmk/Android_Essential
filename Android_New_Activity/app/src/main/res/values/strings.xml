@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_New_Activity</string>
+    <string name="hello_world">Hello World</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="action_settings">Setting</string>
+    <string name="go_second_activity">Go SecondActivity</string>
+    <string name="go_main_activity">Go MainActivity</string>
+    <string name="second_activity_name">Second Activity_Name</string>
+</resources>

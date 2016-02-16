@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_Thread_Async</string>
+    <string name="action_setting">Settings</string>
+</resources>
